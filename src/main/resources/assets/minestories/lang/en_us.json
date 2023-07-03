@@ -1,4 +1,8 @@
 {
   "item.minestories.onems_coin": "1MS Coin",
+  "item.minestories.tenms_coin": "10MS Coin",
+  "item.minestories.hundred_coin": "100MS Coin",
+  "item.minestories.onekms_coin": "1000MS Coin",
+  "item.minestories.tenkms_coin": "10000MS Coin",
   "itemGroup.MineStories_TAB": "MS Tab"
 }

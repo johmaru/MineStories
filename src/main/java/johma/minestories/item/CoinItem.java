@@ -15,10 +15,34 @@ public class CoinItem {
 
     public static final RegistryObject<Item> oneMsCoin = addToTab(MsItem.register("onems_coin",
             () -> new Item(new Item.Properties()
-                    .stacksTo(64)
+                    .stacksTo(32)
                     .rarity(Rarity.COMMON)
             )));
 
+
+    public static final RegistryObject<Item> tenMsCoin = addToTab(MsItem.register("tenms_coin",
+            () -> new Item(new Item.Properties()
+                    .stacksTo(32)
+                    .rarity(Rarity.COMMON)
+            )));
+
+    public static final RegistryObject<Item> hundredMsCoin = addToTab(MsItem.register("hundred_coin",
+            () -> new Item(new Item.Properties()
+                    .stacksTo(32)
+                    .rarity(Rarity.COMMON)
+            )));
+
+    public static final RegistryObject<Item> oneKMsCoin = addToTab(MsItem.register("onekms_coin",
+            () -> new Item(new Item.Properties()
+                    .stacksTo(32)
+                    .rarity(Rarity.COMMON)
+            )));
+
+    public static final RegistryObject<Item> tenKMsCoin = addToTab(MsItem.register("tenkms_coin",
+            () -> new Item(new Item.Properties()
+                    .stacksTo(32)
+                    .rarity(Rarity.COMMON)
+            )));
 
 
 }

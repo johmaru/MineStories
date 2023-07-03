@@ -1,4 +1,8 @@
 {
-  "item.minestories.onems_coin": "1MS コイン",
+  "item.minestories.onems_coin": "一MS コイン",
+  "item.minestories.tenms_coin": "十MS コイン",
+  "item.minestories.hundred_coin": "百MS コイン",
+  "item.minestories.onekms_coin": "千MS コイン",
+  "item.minestories.tenkms_coin": "一万MS コイン",
   "itemGroup.MineStories_TAB": "MS タブ"
 }
